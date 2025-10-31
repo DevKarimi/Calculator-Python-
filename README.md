@@ -26,7 +26,7 @@ btns = [
 
 ## ⚙️ Installation
 
-📥 [Click here to download]([https://github.com/DevKarimi/DevSepi-Calculator/releases/download/v1.0/DevSepi-Calculator.exe](https://github.com/DevKarimi/Calculator-Python-/tree/main/Calculator.Python))
+📥 [Click here to download]([[https://github.com/DevKarimi/DevSepi-Calculator/releases/download/v1.0/DevSepi-Calculator.exe](https://github.com/DevKarimi/Calculator-Python-/tree/main/Calculator.Python)](https://github.com/DevKarimi/Calculator-Python-/archive/refs/heads/main.zip))
 
 ---
 
